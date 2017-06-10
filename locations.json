@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "name":"Dhaka Bangladesh",
+        "street_address":"uttara sector 9",
+        "city":"Dhaka"
+    },{
+        "id":2,
+        "name":"NY USA",
+        "street_address":"uttara sector 9",
+        "city":"NY"
+    },{
+        "id":3,
+        "name":"Sydney Australia",
+        "street_address":"uttara sector 9",
+        "city":"Sydney"
+    }
+]

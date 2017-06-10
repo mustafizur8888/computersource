@@ -1,0 +1,21 @@
+
+[
+    {
+        "id":1,
+        "name":"Hardware Repairs",
+        "description":"Quisque convallis ac velit sed elementum. Integer scelerisque velit lorem, et luctus nibh commodo sit amet. Maecenas nec augue vitae justo ullamcorper ullamcorper. Curabitur ac rhoncus diam. Cras finibus tellus lacus, at venenatis nulla blandit eu. Sed vel sapien magna. Ut ultrices interdum augue, vitae aliquet ex posuere ut. Sed molestie egestas neque, eu mattis nisl lacinia eu. Ut bibendum ac lacus non malesuada. Duis pulvinar nulla nec feugiat gravida.",
+        "image":"https://www.simracingcoach.com/wp-content/uploads/2015/04/logo_hardware-300x300.png"
+    },
+    {
+        "id":2,
+        "name":"Virus Removal",
+        "description":"Quisque convallis ac velit sed elementum. Integer scelerisque velit lorem, et luctus nibh commodo sit amet. Maecenas nec augue vitae justo ullamcorper ullamcorper. Curabitur ac rhoncus diam. Cras finibus tellus lacus, at venenatis nulla blandit eu. Sed vel sapien magna. Ut ultrices interdum augue, vitae aliquet ex posuere ut. Sed molestie egestas neque, eu mattis nisl lacinia eu. Ut bibendum ac lacus non malesuada. Duis pulvinar nulla nec feugiat gravida.",
+       "image":"https://www.simracingcoach.com/wp-content/uploads/2015/04/logo_hardware-300x300.png"
+    },
+    {
+        "id":3,
+        "name":"System Tuneup",
+        "description":"Quisque convallis ac velit sed elementum. Integer scelerisque velit lorem, et luctus nibh commodo sit amet. Maecenas nec augue vitae justo ullamcorper ullamcorper. Curabitur ac rhoncus diam. Cras finibus tellus lacus, at venenatis nulla blandit eu. Sed vel sapien magna. Ut ultrices interdum augue, vitae aliquet ex posuere ut. Sed molestie egestas neque, eu mattis nisl lacinia eu. Ut bibendum ac lacus non malesuada. Duis pulvinar nulla nec feugiat gravida.",
+       "image":"https://www.simracingcoach.com/wp-content/uploads/2015/04/logo_hardware-300x300.png"
+    }
+]
